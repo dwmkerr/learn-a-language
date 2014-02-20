@@ -11,7 +11,7 @@ This repo is a description of some ideas of such projects - please fork, pull re
 Pascal's Triangle
 -----------------
 
-tl;dr - Basic and perfect for day of a new language.
+tl;dr - Basic and perfect for day one of a new language.
 
 One of the best - [Pascel's Triangle](http://en.wikipedia.org/wiki/Pascal's_triangle) is a simple mathematical construct that you should be able to implement quickly in almost any language. The sort of output you'd be looking for would be:
 
