@@ -13,7 +13,7 @@ Pascal's Triangle
 
 tl;dr - Basic and perfect for day one of a new language.
 
-One of the best - [Pascel's Triangle](http://en.wikipedia.org/wiki/Pascal's_triangle) is a simple mathematical construct that you should be able to implement quickly in almost any language. The sort of output you'd be looking for would be:
+One of the best - [Pascal's Triangle](http://en.wikipedia.org/wiki/Pascal's_triangle) is a simple mathematical construct that you should be able to implement quickly in almost any language. The sort of output you'd be looking for would be:
 
 ````
 
@@ -31,6 +31,8 @@ What should this teach?
 * Console or process input
 * Console or file ouput
 * Recursion or looping
+
+I've got an implementation that's clearly commentted and tested at [github.com/dwmkerr/fsharpexperiments](https://github.com/dwmkerr/fsharpexperiments).
 
 Langton's Ant
 -------------
