@@ -7,6 +7,7 @@ This repo is a description of some ideas of such projects - please fork, pull re
 
 1. [Pascal's Triangle](#pascals-triangle)
 2. [Langton's Ant](#langtons-ant)
+3. [Skip Lists](#skip-lists)
 
 Pascal's Triangle
 -----------------
@@ -54,3 +55,20 @@ What should this teach?
 * Console, graphical or file output
 * Basic algorithms.
 
+Skip Lists
+----------
+
+Skip lists are a data structure which allow O(logN) speed access to a list. Rather more complicated than linked lists and a basic B-tree but easier than an AVL tree.
+
+There's a great article [on Skip Lists on the CodeProject by Mostaffa Eissa](http://www.codeproject.com/Articles/874643/Skip-Lists-Demystified).
+
+This would be an ideal project for C or C++, any language where you manage memory directly.
+
+What should this teach?
+ * Memory management
+ * Algorithmic Complexity
+ * Data structures
+
+
+
+http://www.codeproject.com/Articles/874643/Skip-Lists-Demystified
