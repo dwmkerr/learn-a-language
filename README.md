@@ -8,6 +8,7 @@ This repo is a description of some ideas of such projects - please fork, pull re
 1. [Pascal's Triangle](#pascals-triangle)
 2. [Langton's Ant](#langtons-ant)
 3. [Skip Lists](#skip-lists)
+4. [SLA](#sla)
 
 Pascal's Triangle
 -----------------
@@ -72,3 +73,20 @@ What should this teach?
 
 
 http://www.codeproject.com/Articles/874643/Skip-Lists-Demystified
+
+## SLA
+
+A nice simple idea for a console app:
+
+```
+$ sla 99.9
+Daily Downtime   : 1m 26.4s
+Weekly Downtime  : 10m 4.8s
+Monthly Downtime : 43m 49.7s
+Yearly Downtime  : 8h 45m 57.0s
+```
+
+What would this teach?
+
+- Simple console programs
+- Time formatting
