@@ -34,7 +34,7 @@ What should this teach?
 * Console or file ouput
 * Recursion or looping
 
-I've got an implementation that's clearly commentted and tested at [github.com/dwmkerr/fsharpexperiments](https://github.com/dwmkerr/fsharpexperiments).
+I've got an implementation that's clearly commented and tested at [github.com/dwmkerr/fsharpexperiments](https://github.com/dwmkerr/fsharpexperiments).
 
 Langton's Ant
 -------------
@@ -45,7 +45,7 @@ tl;dr - Hard, great opportunities to be clever and use language specific feature
 
 A screenshot of such an application, written in Javascript would look like this:
 
-![Langton's Ant](http://www.dwmkerr.com/experiments/langtonsant/langtonsant.jpg)
+![Langton's Ant](https://raw.githubusercontent.com/dwmkerr/langtonsant/master/docs/langtonsant.jpg)
 
 (This project is on GitHub at [github.com/dwmkerr/langtonsant](https://github.com/dwmkerr/langtonsant)).
 
