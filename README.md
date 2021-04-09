@@ -6,6 +6,23 @@ This repo is a description of some ideas of such projects - please fork, pull re
 
 This project is very much work in progress!
 
+<!-- vim-markdown-toc GFM -->
+
+* [The Fundamentals](#the-fundamentals)
+    * [Types of Languages](#types-of-languages)
+        * [Imperative or Procedural Languages](#imperative-or-procedural-languages)
+* [How to Learn](#how-to-learn)
+    * [Find Excellent Examples](#find-excellent-examples)
+* [Languages](#languages)
+    * [Node.js](#nodejs)
+* [Exercises](#exercises)
+* [Pascal's Triangle](#pascals-triangle)
+* [Langton's Ant](#langtons-ant)
+* [Skip Lists](#skip-lists)
+* [SLA](#sla)
+
+<!-- vim-markdown-toc -->
+
 ## The Fundamentals
 
 Learning programming languages can be surprisingly easy. This is partly because whilst the _syntax_ of languages can vary considerably, most languages will fall into a 'category', once you know how languages in this category work there will be a lot of overlap.
