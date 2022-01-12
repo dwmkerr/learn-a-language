@@ -13,13 +13,12 @@ This project is very much work in progress!
         * [Imperative or Procedural Languages](#imperative-or-procedural-languages)
 * [How to Learn](#how-to-learn)
     * [Find Excellent Examples](#find-excellent-examples)
-* [Languages](#languages)
-    * [Node.js](#nodejs)
 * [Exercises](#exercises)
-* [Pascal's Triangle](#pascals-triangle)
-* [Langton's Ant](#langtons-ant)
-* [Skip Lists](#skip-lists)
-* [SLA](#sla)
+    * [Pascal's Triangle](#pascals-triangle)
+    * [Langton's Ant](#langtons-ant)
+    * [Skip Lists](#skip-lists)
+    * [SLA](#sla)
+    * [Phonetic Speller](#phonetic-speller)
 
 <!-- vim-markdown-toc -->
 
@@ -55,15 +54,11 @@ One of the most effective ways to learn an language is to find some really good 
 
 Some examples of excellent projects are given in the examples listed below.
 
-## Languages
-
-### Node.js
-
 ## Exercises
 
 The following exercises may be useful for learning languages. Note that basic examples are only really going to help you learn the _syntax_, rather than the _idioms_, so I would in general prioritise more 'real-world' activities where possible!
 
-## Pascal's Triangle
+### Pascal's Triangle
 
 tl;dr - Basic and perfect for day one of a new language.
 
@@ -88,7 +83,7 @@ What should this teach?
 
 I've got an implementation that's clearly commented and tested at [github.com/dwmkerr/fsharpexperiments](https://github.com/dwmkerr/fsharpexperiments).
 
-## Langton's Ant
+### Langton's Ant
 
 tl;dr - Hard, great opportunities to be clever and use language specific features.
 
@@ -107,7 +102,7 @@ What should this teach?
 * Console, graphical or file output
 * Basic algorithms.
 
-## Skip Lists
+### Skip Lists
 
 Skip lists are a data structure which allow O(logN) speed access to a list. Rather more complicated than linked lists and a basic B-tree but easier than an AVL tree.
 
@@ -124,7 +119,7 @@ What should this teach?
 
 http://www.codeproject.com/Articles/874643/Skip-Lists-Demystified
 
-## SLA
+### SLA
 
 A nice simple idea for a console app:
 
@@ -140,3 +135,19 @@ What would this teach?
 
 - Simple console programs
 - Time formatting
+
+### Phonetic Speller
+
+This is a very simple exercise - the input is any ANSI text, the output is the text spelled out with [Phonetic Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet):
+
+```
+$ phonetic learnings
+Lima Echo Alfa Romeo November India November Golf Sierra
+```
+
+This should teach:
+
+- Input / output
+- Basic character manipulation
+- Regular Expressions (potentially)
+- Dictionaries or loops
